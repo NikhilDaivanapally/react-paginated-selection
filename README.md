@@ -64,9 +64,12 @@ Ideal for data tables, product lists, or gallery-style UIs where users select it
 
 ## Setup
 
-git clone https://github.com/NikhilDaivanapally/react-paginated-selection.git
+git clone https://github.com/NikhilDaivanapally/react-paginated-selection.git                                                                                                                                        
+
 cd react-paginated-selection
+
 npm install
+
 npm run dev
 
 
